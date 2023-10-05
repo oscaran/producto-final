@@ -447,3 +447,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 20px;
 }
 }
+
+.alto-img{
+	width: 100%;
+	height: 95%;
+}
